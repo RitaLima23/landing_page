@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+go.hotmart.com	TRUE	/	FALSE	1999999999	hotd	VH4sIAAAAAAAA/4uuNjKyNLYwtDIxMDc0jFeIN7QwiNewNDMzMzI3NNKM1zAyMTQwtAQygEgBBdfGAgB7cigmPQAAAA==
+go.hotmart.com	TRUE	/	FALSE	1999999999	chkprm.hot	H4sIAAAAAAAA/6tWSixQslIyTTZPVtJRSgQyIy3NzMyMzA2NIpRqAQBgsrYeAAAA
+go.hotmart.com	TRUE	/	FALSE	1999999999	hotid	eyJzaWQiOiJjOWY3OTUzYzlkMGE0ZWFhODY2ZmRlZjBmMjg2NzFmMSJ9
+go.hotmart.com	TRUE	/	FALSE	1999999999	hmco	H4sIAAAAAAAA/wMAAAAAAAAAAAA=
+hotmart.com	TRUE	/	FALSE	1999999999	SameSite	None
+
